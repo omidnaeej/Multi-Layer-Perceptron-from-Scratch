@@ -1,0 +1,2 @@
+logging_level: INFO
+log_file: train.log
